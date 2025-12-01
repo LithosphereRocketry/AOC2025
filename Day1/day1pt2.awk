@@ -19,6 +19,5 @@ match($0, /^R([0-9]*)/, m) {
     }
 }
 END {
-    print pos
     print score
 }
