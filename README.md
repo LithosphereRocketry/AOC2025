@@ -6,3 +6,4 @@ Continuing my unique-languages challenge from 2023.
 * Day 2: Ruby
 * Day 3: BASIC (yabasic)
 * Day 4: R
+* Day 5: Perl
