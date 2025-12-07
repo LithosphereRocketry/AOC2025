@@ -8,3 +8,4 @@ Continuing my unique-languages challenge from 2023.
 * Day 4: R
 * Day 5: Perl
 * Day 6: Javascript
+* Day 7: C3
