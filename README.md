@@ -9,3 +9,4 @@ Continuing my unique-languages challenge from 2023.
 * Day 5: Perl
 * Day 6: Javascript
 * Day 7: C3
+* Day 8: Zig
